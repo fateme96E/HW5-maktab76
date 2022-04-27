@@ -1,5 +1,6 @@
 html{
     font-size: 1.2vw;
+    font-family: 'Times New Roman', Times, serif;
 }
 body{
     background-image: url("./images/22.jpg");
@@ -9,9 +10,10 @@ body{
     background-size: cover;
 }
 .main-text{
-    color: rgba(255, 255, 255, 0.5);
+    color: rgba(255, 255, 255, 0.8);
     text-align: center;
     line-height: 1em;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .form-container{
     background-color: rgb(255, 255, 255);
